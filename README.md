@@ -67,13 +67,11 @@ Shows current plugin status
 - **Permission**: `epsteinmap.command.status` (default: all players)
 - **Usage**: `/mapstatus`
 
-### `/mapscan [dimension]`
+### `/mapscan confirm`
 Starts scanning the specified dimension
 - **Permission**: `epsteinmap.command.scan` (default: operators only)
 - **Usage**: 
-  - `/mapscan` - scan Overworld
-  - `/mapscan Overworld` - scan the overworld
-  - `/mapscan TheEnd` - scan the end
+  - `/mapscan confirm` - scan dimensions.
 
 
 ## 📚 Dependencies
