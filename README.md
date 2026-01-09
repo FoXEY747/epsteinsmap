@@ -28,7 +28,7 @@ Since this project is closed-source, download pre-built releases from the [Relea
 Copy the downloaded plugin to the Endstone plugins directory:
 ```bash
 # Linux
-cp epstein_map.so /path/to/endstone/plugins/
+cp endstone_epstein_map.so /path/to/endstone/plugins/
 ```
 
 ### 3. Configuration
